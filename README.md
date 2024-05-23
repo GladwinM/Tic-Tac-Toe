@@ -6,33 +6,23 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Tic Tac Toe <a name="about-project"></a>
 
 <div align="center">
-  <img src="tic tac toe screenshot 1.png" alt="project sample" width="650"  height="auto" />
-  <img src="tic tac toe screenshot 2.png" alt="project sample" width="650"  height="auto" />
+  <img src="/Screenshot 1.png" alt="project sample" width="650"  height="auto" />
+  <img src="/Screenshot 2.png" alt="project sample" width="650"  height="auto" />
   <br/>
-  <img src="tic tac toe screenshot 3.png" alt="project sample" width="650"  height="auto" />
-  <br/>
-
   <h3><b>Tic Tac Toe</b></h3>
 
 </div>
