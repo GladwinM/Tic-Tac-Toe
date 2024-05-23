@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://tic-tac-toe121.netlify.app/)
+- [Live Demo Link](https://tiny-croquembouche-f67250.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
